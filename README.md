@@ -21,4 +21,6 @@ Website : https://www.stanfordalpaca.org/
 
 Telegram portal : https://t.me/StanfordAlpacaPortal
 
+Gitbook: https://stanford-alpaca.gitbook.io/everything-you-need-to-know/
+
 Enjoy your GPT! 

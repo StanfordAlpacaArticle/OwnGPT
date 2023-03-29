@@ -1,4 +1,6 @@
-# OwnGPT
+# Own![Coffee Please](https://user-images.githubusercontent.com/129273618/228508397-9a6b9194-3c3c-446c-be88-94a7726ec5b1.png)
+![Untitled design](https://user-images.githubusercontent.com/129273618/228508447-f83298bf-6c72-421c-ab38-014664462d9e.png)
+GPT
 Create your own GPT, amalgamate AI with $Alpaca
 
 Welcome to Stanford Alpaca
